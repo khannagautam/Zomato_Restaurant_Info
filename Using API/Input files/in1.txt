@@ -1,0 +1,899 @@
+﻿JW Kitchen - JW Marriott,18398880,0
+Peter Cat,20404,1
+Barbeque Nation,20842,2
+Barbeque Nation,25570,3
+Spice Kraft,18017612,4
+What's Up,18017615,5
+6 Ballygunge Place,20002,6
+The Irish House,24286,7
+Oudh 1590,23273,8
+Mocambo,20350,9
+Jaisalmer,24537,10
+Fly Kouzina,24760,11
+India Restaurant,20747,12
+Flurys,21212,13
+Chili's Grill & Bar,23729,14
+Sigree Global Grill,24452,15
+Santa's Fantasea,24530,16
+Oudh 1590,25628,17
+Afraa Restaurant And Lounge,20852,18
+Blue And Beyond,21636,19
+Arsalan,20797,20
+Ocean Grill,18259462,21
+BarBQ,20870,22
+Santa's Fantasea,18143268,23
+Asia Kitchen by Mainland China,18217475,24
+Gabbar's Bar & Kitchen,25664,25
+Hatari,20240,26
+Chowman,23933,27
+The Corner Courtyard,23636,28
+The Wall,20833,29
+The Factory Outlet,24629,30
+Mrs. Magpie,22164,31
+My Big Fat Belly,18343765,32
+Yauatcha,24503,33
+Barcelos,18311134,34
+Hoppipola,18249144,35
+Haka,20782,36
+Abar Baithak,24657,37
+Paris Cafe,24564,38
+Nawwarah,18377112,39
+The Bikers Cafe,24342,40
+The Steak Factory,24525,41
+Bon Appetit,21885,42
+Olypub,20855,43
+Scoop,20456,44
+TGI Friday's,25587,45
+Aminia,23557,46
+Rang De Basanti Dhaba,23767,47
+Kaafila,21426,48
+Chili's Grill & Bar,25714,49
+Tamara - Pipal Tree Hotel,23587,50
+6 Ballygunge Place,21308,51
+Momo I Am,18198678,52
+Tung Fong,21380,53
+Royal Indian Hotel,21411,54
+Chili's Grill & Bar,25718,55
+Au Bon Pain,23805,56
+Hakuna Matata,25654,57
+Wise Owl,21997,58
+Golden Joy,21346,59
+Cafe Mezzuna,23831,60
+Big Boss,21431,61
+MUD,25199,62
+Beijing,21347,63
+Nizam's,21176,64
+Bombay Brasserie,24205,65
+Calcutta Bistro,20613,66
+Bohemian,21520,67
+Balwant Singh's Eating House,20754,68
+The GRID,18343730,69
+Balle Balle Dhaba,24313,70
+Tandoor Park,20518,71
+Flame & Grill,21220,72
+CIT Cafe,21578,73
+Terminal 11,18017610,74
+Mainland China,20928,75
+Piccadilly Square,20720,76
+Indian Coffee House,21764,77
+KFC,20287,78
+Shiraz Golden Restaurant,21527,79
+Chai Break,24735,80
+10 Downing Street,18296364,81
+Smoke House Deli,23899,82
+Tandoor House,18259433,83
+The Grub Club,20661,84
+Raj Spanish Cafe,22095,85
+Mirch Masala Restaurant & Bar,20348,86
+The Blue Poppy,21230,87
+Chapter 2,18265441,88
+Nahoum and Sons,21211,89
+Paramount Sherbats & Syrups,22173,90
+The Palms,18166939,91
+Opium,21350,92
+Mamagoto,18368652,93
+One Step Up,21376,94
+Haka,20235,95
+Haldiram Food City,21594,96
+La Maison Des D??lices,23817,97
+Hanglaatherium,24794,98
+Beer Republic,18166940,99
+McDonald's,20630,100
+Mumbai Local,18343731,101
+Desi Lane,18343756,102
+Banana Leaf,20044,103
+Oh! Calcutta,20974,104
+Sanjha Chulha,20453,105
+Xrong Place,20862,106
+Bakstage,23185,107
+Honey Da Dhaba,21269,108
+Mitra Cafe,21125,109
+Bombay Shiv Sagar,20090,110
+Balaram Mullick & Radharaman Mullick Sweets,22077,111
+Ecstasea,23964,112
+Byepass Dhaba,18162672,113
+Smoke Shack - Park Plaza,22661,114
+Bhojohori Manna,20072,115
+Punjabee Rasoi,20912,116
+Jai Hind Dhaba,20273,117
+The Bridge - The Floatel Hotel,20841,118
+Golbari,21612,119
+Machaan,21218,120
+Kimli,20293,121
+Paris Cafe,23057,122
+Mocha,20959,123
+Sher-e-Punjab,21353,124
+CALCUTTA 64,18377098,125
+Tibetan Delight,22006,126
+Denzong Kitchen,23295,127
+Trincas,21781,128
+Eagle Boys Pizza,25737,129
+Hatari,24808,130
+Haldiram Food City,20829,131
+Blue Sky Cafe,22056,132
+Bachan's Dhaba,21251,133
+Oh! Calcutta,21217,134
+Momo Plaza,20780,135
+Kasturi Restaurant,21576,136
+Mainland China,21216,137
+Cafe Mezzuna,18249157,138
+Kaidi Kitchen,22418,139
+Reflexion -The Majestic Suites Hotel,18249172,140
+Girish Chandra Dey & Nakur Chandra Nandy,22078,141
+Shawarma Nation,23342,142
+Buddha Bites,24195,143
+Codfather,24193,144
+Flavours Of China,21798,145
+Jalapenos,20274,146
+Anand Restaurant,21391,147
+China Whites,20647,148
+Tyre Patty,23555,149
+Casa Kitchen,21559,150
+Aaira,24650,151
+Cream Centre,21543,152
+Food Station,20733,153
+Golden Dragon,21349,154
+Cafe 4/1,25605,155
+Kookie Jar,21590,156
+Royal Indian Restaurant,25705,157
+Haji Saheb,21257,158
+Moulin Rouge,20881,159
+Waterside Cafe - Hyatt Regency,20942,160
+Marco Polo,21213,161
+Dada Boudir Hotel,21875,162
+Tung Nam,22429,163
+Cloakroom,25431,164
+Solid Gulp (Bapi Dar Momo),22391,165
+Bawarchi Family Restaurant,20061,166
+Privy Ultra Lounge,21588,167
+Afraa Deli,20657,168
+8th Day Cafe & Bakery,24874,169
+Someplace Else - The Park,21424,170
+Blossom,20719,171
+Rang De Basanti Dhaba,24547,172
+Golden Gate,20681,173
+Go Lebanese,21550,174
+Monkey Bar,18361667,175
+Rajdhani Thali,18198665,176
+The Dugout,24344,177
+Amber,20712,178
+Fire and Ice Pizzeria,20193,179
+Tolly Tales,18249142,180
+Serafina,24504,181
+Zeeshan,20602,182
+Country Roads,18249185,183
+Kasturi Restaurant,21829,184
+Raize The Bar,18287272,185
+Banzara,20904,186
+Pizza Hut,20407,187
+Cafe Swiss - Swissotel Kolkata Neotia Vista,21499,188
+Krystal Chopstick,20844,189
+Abcos Food Plaza,20299,190
+Silver Platter,18287268,191
+Tamarind,20859,192
+Chilli Wok,24487,193
+The Love Room,18354594,194
+Wow! Momo,21060,195
+Lazeez,21386,196
+Koshe Kosha,21669,197
+Bedouin - Sher e Bengal,20065,198
+Pour House,18296336,199
+The Mango Tree,24479,200
+XII Zodiacƒ?ª - The Fern Residency Hotel,18270247,201
+Le Coffee Creme,22404,202
+K.C. Das,22076,203
+Zaranj,20600,204
+The Rouge,21689,205
+Fairlawns,22116,206
+Hanglaatherium,23927,207
+The Bridge - The Park,20850,208
+Sabir's Restaurant,21280,209
+Afraa Creperie,22107,210
+On Track,21355,211
+Peshawri - ITC Sonar,21357,212
+Naushijaan,20918,213
+Saima Restaurant,21668,214
+Kusum Rolls,22067,215
+The Blue Poppy,24116,216
+The Darjeeling,24833,217
+Mio Amore Restaurant,21354,218
+Fuji,23655,219
+Mehak-e-Punjab,21992,220
+Panna's Kitchen,21805,221
+Sholoana Bangali,20472,222
+Oasis,21511,223
+Cocoa Bakery,23814,224
+The Great Booze Story,18166935,225
+Lebanese Junction,24502,226
+Woodstock 1969,25753,227
+New Aliah Hotel & Caterer,20679,228
+Kim Ling,23179,229
+OTT - Over the Top,24727,230
+Golden Spoon,21470,231
+Paranthe Wali Galli,18414428,232
+Bistro By The Park,21382,233
+Hatari,21861,234
+Blue Nile,21881,235
+Sonargaon - Taj Bengal,21461,236
+Cafe Ekante,25538,237
+China Wok,25637,238
+Putiram Sweets,22785,239
+Govinda's,21510,240
+The Hub - Taj Bengal,21215,241
+Tak Heng,25429,242
+Hungry Tide,21634,243
+Caafe 360 Degree,21954,244
+Mandarin Restaurant,20867,245
+F.R.I.E.N.D.S Cafe,18311124,246
+Mainland China,21839,247
+Fish Fish,22362,248
+Alla Bella Mozzarella,18265429,249
+BJs Sports Restrau Cum Lounge,18265479,250
+Bellagio,21558,251
+Wall Street Bar,25615,252
+Crossroad Cafe,18265458,253
+Tero Parbon,20847,254
+Machaan,21840,255
+Deli Cravings,18017605,256
+Vintage Asia - JW Marriott,18420362,257
+Brickwood,18217480,258
+Aqua - The Park,21508,259
+The Coffee Bean & Tea Leaf,21053,260
+Aaheli - The Peerless Inn,21581,261
+Azad Hind,20035,262
+FoodPath,21892,263
+Jyoti Vihar,20279,264
+The Chaiwala,18143280,265
+Zucca Lounge,18296346,266
+Overdose,18361674,267
+Tram Deepo,18354569,268
+Dilkhusha Cabin,22406,269
+Kwality,20873,270
+Royal Lebanese,22769,271
+Azad Hind Dhaba,21964,272
+The Country House,18265462,273
+Only Alibaba,20908,274
+Azad Hind,20036,275
+The Royal Bengal Tiger Cafe,24902,276
+Rosenberg,21281,277
+Since 2016,18270243,278
+Ol Yourz,24201,279
+Aura - The Sonnet,21563,280
+Oval Lounge,21876,281
+Edesia,23629,282
+Roxy - The Park,21506,283
+Crystal Chimney,20147,284
+Hindusthan Dhaba,18377108,285
+Wasabee,22188,286
+Ammini,21548,287
+Crave Foodworks,24008,288
+Magnolia,20875,289
+Chinoiserie - Taj Bengal,21462,290
+M Bar Kitchen,24665,291
+One Sports Lounge,18250360,292
+Teej,20529,293
+The Chutney Co.,25617,294
+Marco Polo,21214,295
+Subway,20962,296
+The Bhoj Company,21868,297
+Bagicha,20677,298
+Campari,20665,299
+Caught n Bowled,20843,300
+Shisha - Bar Exchange,18249148,301
+Cafe Coffee Day,21945,302
+Kookie Jar,21593,303
+Domino's Pizza,20172,304
+Saptapadi,18270233,305
+Tantra - The Park,21509,306
+Jafran,25660,307
+Momo I Am,18361657,308
+Cha Bar,20964,309
+Chung Wah,21538,310
+Gupta Brothers Sweets,20723,311
+Afraa Deli,21728,312
+Noodle Oodle,18334323,313
+The Wise Owl Steakhouse,25679,314
+Hungry Tide,23894,315
+Mainland China,20927,316
+The Square - Novotel,24533,317
+Kookie Jar,21598,318
+Burger You,24624,319
+Flame & Grill,21219,320
+Kaidi Kitchen,24795,321
+The Rose,21274,322
+Q33,24315,323
+Sharma Dhaba,21146,324
+The Sushi Oke,21389,325
+Rooftop Top View,22004,326
+Bliss,20083,327
+Au Bon Pain,23673,328
+Orko'ss Restaurant & Lounge Bar,21546,329
+Red Bamboo Shoot Restaurant,23191,330
+La Cucina - Hyatt Regency,20941,331
+The Blue Door,24781,332
+Cheeni Kum,21869,333
+Gangaur,20828,334
+Eau Chew Restaurant,21715,335
+6 Ballygunge Place Thali,23357,336
+Hoppipola,18420396,337
+SOI,18368664,338
+Courting Coffees,18431475,339
+Icy Fusion,24892,340
+Kebab-e-Que - The Astor Hotel,21530,341
+Govinda's,22189,342
+Haldiram's,22165,343
+Mission Cafe,23942,344
+Red Bamboo Shoot Restaurant,25387,345
+Kasturi Restaurant,18017608,346
+The Co. by Wok Anthems - Dee Empresa Hotel,24887,347
+Dosa @ Twist,24481,348
+Santa Delivers,24834,349
+K19 All Day Dining - Park Plaza,22660,350
+Lazeez Express,23280,351
+Charcoal Grill,21412,352
+Hatari,23221,353
+Tandoori Darbar,21046,354
+Haji Saheb,24573,355
+Ginger,20885,356
+Baati Chokha,25506,357
+Jabbrr Afghani,22351,358
+The Steak Factory,18420392,359
+Benjarong,20890,360
+Kasturi Restaurant,23559,361
+Udipi Home,22087,362
+Zam Zam,22656,363
+Pai's Malgudi,24816,364
+Saptapadi,23953,365
+Pizza Hut Delivery,21374,366
+Roast,18377068,367
+Chittoda's Suruchee Restaurant,21760,368
+The Silk Route,24568,369
+Red Hot Chilli Pepper,21519,370
+Eat Good Food,18237056,371
+Ppaparazzi,21664,372
+SpiceKlub,18343750,373
+Sudipar Rannaghor,18162696,374
+Hondo's,18361680,375
+Watz This Friday,23597,376
+Eden Pavilion - ITC Sonar,21626,377
+Kewpie's,20286,378
+New Empire Bar,20872,379
+Little Italy (Little High),20322,380
+Buzz,20698,381
+Sienna Store & Cafe,18237062,382
+Apanjan,22206,383
+Mama Mia!,20957,384
+Hot Kathi Rolls,22082,385
+Anadi Cabin,22169,386
+The Yellow Chilli,21569,387
+Aqua Java Air,18143246,388
+6 Ballygunge Place Thali,24670,389
+Teekha,24395,390
+Cakes,21929,391
+@49,18017618,392
+Fusion,21159,393
+Purple Turtle,25141,394
+Starstruck,20499,395
+Kix Lounge,21639,396
+Ozora,18420364,397
+Jimmy's Kitchen,21149,398
+Sharma Tea,21138,399
+The Coffee Bean & Tea Leaf,23890,400
+Tasty Corner,22866,401
+Dolly's The Tea Shop,21381,402
+Azad Hind,24668,403
+Asia House,18398872,404
+Bijoli Grill,24644,405
+Caf?? OMG! Social,18296323,406
+Oceanic - The Peerless Inn,21580,407
+Pizza Hut,21370,408
+Russel Punjabi Dhaba,21665,409
+The Street - The Park,20851,410
+Royal Jade Chinese Restaurant,21073,411
+Krazy for Chocolates,21441,412
+The French Loaf,20945,413
+Fatso's,22432,414
+Pan Asian - ITC Sonar,21516,415
+FoodPath,18143265,416
+Wolves'11,18134908,417
+Lokaahar,18204346,418
+Buzz - The Gateway Hotel,23442,419
+Caafe 360 Degree,23468,420
+Sera - The Tapas Bar & Restaurant,23730,421
+Marufaz,25589,422
+The Drunken Monkey - Hotel O2 VIP,18343728,423
+KK's Fusion,21633,424
+China South,23792,425
+Sultan,18296352,426
+Manti,21262,427
+Baan Thai - The Oberoi Grand,21523,428
+Hindusthan Sweets,22904,429
+Advieh - Hotel Celesta,24117,430
+Coffee World,21811,431
+Macazzo,18377090,432
+Cafe Unplugged,25610,433
+We.Desi,18354584,434
+Vault,24654,435
+Fusion Fantasea,18377076,436
+Gelato Italiano,20933,437
+47 South Tangra Road,21815,438
+Red Xpress,21532,439
+Cafe Mi Casa,25702,440
+Nirala's China Town,20363,441
+Gossip,21465,442
+Go Where,23325,443
+Charnock's,21604,444
+First Flush,18361635,445
+Rasam - The Stadel,21371,446
+One Way Cafe,23875,447
+The Funjabi Tadka,23213,448
+Melodrama,25377,449
+Dada Boudi Restaurant,17983797,450
+Waldorf,20878,451
+China Calling,25464,452
+Durbari - Swissotel Kolkata Neotia Vista,21502,453
+Raj Restaurant,20784,454
+Drumstick,21761,455
+Guchhi - Hyatt Regency,20940,456
+Hamro Momo,21147,457
+Silver Screen,21722,458
+Bijoli Grill,20079,459
+First Innings Multicuisine Restaurant - The Stadel,21360,460
+Hotel Swagath,21507,461
+The Taste Maker,20734,462
+Hotel Taaj,21296,463
+Prema Vilas,22576,464
+Mythh - HHI,21368,465
+Tandoori Darbar,21300,466
+Zen - The Park,20848,467
+Fiesta,24590,468
+Goin West,18213991,469
+Haveli,21383,470
+The Cream & Fudge Factory,20969,471
+Sand - De Sovrani,22933,472
+Mrs. Magpie,18386792,473
+Cookie Man,22008,474
+BB's Restaurant,20063,475
+The Lords,20692,476
+Skyline Confectioners,21843,477
+Zyka,21294,478
+Oye Balle Balle Dhaba,18377093,479
+Bong Connection,22572,480
+Afraa Deli,22113,481
+Pizza Hut,22259,482
+Ambrosia Restaurant,22649,483
+Souk - Taj Bengal,21497,484
+The Coastal Macha,18382762,485
+Hing Bar & Restaurant,21609,486
+Aromas - Kenilworth Hotels,20866,487
+London Lounge,24463,488
+What's In D Name,18368662,489
+The Tea Junction,21064,490
+Splash - Swissotel Kolkata Neotia Vista,21557,491
+Nocturne,21432,492
+Maharani,23382,493
+Jam House,18325249,494
+Express Food Plaza,25037,495
+Chanda's Khaukswey,18226441,496
+Goutam's,22453,497
+Simply Sizzlers,22820,498
+Shinryu Restaurant & Bar,22571,499
+Bhajohori Ranna,23305,500
+Route 17 - The Steakhouse,18414426,501
+Mithai,22722,502
+Mumble's Lab,18259447,503
+Desi Mehak,18211703,504
+Shaina Chicken Corner,23522,505
+Go Lebanese,23214,506
+Raajbarir Khawa,21859,507
+C/o. Bangali,18366914,508
+Mughal Khaan,18323211,509
+Wok King,18204258,510
+18 James Long,18209848,511
+Express Le Coffee,25478,512
+Mini Hut,21723,513
+The Auto Junc,18354592,514
+Chicken King N Pizza Day,18175457,515
+Cinnabon,18166888,516
+Khawab,21727,517
+Rendezvous - Monotel,22804,518
+The Dugout,18343761,519
+Chittaranjan Mistanna Bhandar,23680,520
+Saffron - The Park,20849,521
+Goutam's,22477,522
+Shimmers,21595,523
+The Belgian Bakery,23674,524
+Keventers,18343753,525
+Dum Pukht - ITC Sonar,21611,526
+Don Giovanni's,21017,527
+Kabuliwala,18382567,528
+Manthan Songhai,23610,529
+Rasoee Desi Kitchen,18414429,530
+Pind Punjabi Dhaba,18343733,531
+Momore,24662,532
+Bhikharam Chandmal,23924,533
+One Step Ahead,25148,534
+Indthalia,20622,535
+Bhim Chandra Nag,22080,536
+Hongkong Express,21313,537
+Bake Club,21635,538
+Chacha's Hotel,21157,539
+Ramakrishna Lunch Home,22010,540
+The Fan's Club,18377107,541
+The Scoop,20653,542
+Barista Lavazza Espresso Bar,23360,543
+Mirage - The Stadel,23923,544
+Allen Kitchen,21429,545
+Padmaparer Rannaghar,23180,546
+Kurry Klub,21377,547
+Dimpi,21996,548
+Zaikebaaz,23512,549
+La Griglia,22361,550
+The Noodle Hub,18217433,551
+Bhoomi - Vedic Village Spa Resort,21618,552
+The Cafe Store,25631,553
+Coffee N Mood,23873,554
+Crossroad Crystal,21818,555
+Canteen @ Byloom,22665,556
+Glac?? Patisserie,18213985,557
+Debonair,21552,558
+Blue Lagoon,20085,559
+Aaheli,21574,560
+Banana Leaf,17983759,561
+Suruchi Veg Restaurant,25712,562
+Garden Cafe,20789,563
+Badshah Bar & Restaurant,20765,564
+Dalma,23237,565
+Bedwin,21118,566
+Piccadilly Square,25155,567
+Spice Ocean,18287247,568
+Nargis Restaurant,20359,569
+Tangerine,20520,570
+The 5sos Cafe,24574,571
+Indthalia,20621,572
+Only Alibaba Gold,24387,573
+Yin Yang,21870,574
+D Win Dragon,22446,575
+Coffee World,18166920,576
+Cremecup.in,18162656,577
+Kowloon,20307,578
+Jai Hind Dhaba,24428,579
+Rahmania,20420,580
+Calcutta Retro,23433,581
+Cafe Treat - The Pride Hotels,21621,582
+Orchid,21854,583
+Addiction,21855,584
+K2 The Restaurant,20911,585
+The Good Old Days,18296324,586
+Genuine Broaster Chicken,18386800,587
+Design My Cake,18198655,588
+Kwality,21716,589
+Swissyum Concept Foods,25025,590
+Pied Pipers Cafe,18296327,591
+Little Pleasures,24513,592
+Masala Wok By Red Hot Chilli Pepper,18377087,593
+Orko'ss Restaurant - Regenta Orko'ss Hotel,24454,594
+Icy Fusion,25623,595
+Kebabish Grill India,25716,596
+American Cave,18311131,597
+Au Bon Pain,18162660,598
+Afza,21425,599
+Kurry Patta,18311146,600
+Yagna - Vedic Village Spa Resort,21617,601
+Caf?? Drifter,18377085,602
+Eggytarrian,25710,603
+Kookie Jar,21596,604
+The Protein Bistro,18354579,605
+Hanglaatherium,25634,606
+Studio - The Pan-Asian Galerie - Novotel,17983801,607
+Pabrai's Fresh and Naturelle Ice Cream,25651,608
+Noodle MEE,24929,609
+Mezban,20826,610
+The Coffee Den,24843,611
+Myx,24446,612
+The Eye Within Club,24649,613
+Thakroon,18380248,614
+Calcutta Stories,18296368,615
+Coffee N Mood,22140,616
+Cheeni Kum Lounge & Bar,22096,617
+Kalika,23223,618
+Sanjha Chulha,18296356,619
+Wokaholic,18368673,620
+Bake o Cake,18162653,621
+Bean's And Cream Cafe,25546,622
+Silver Screen Asia,24998,623
+Tinny Da Dhaba,21050,624
+Anti Pasti: Multicuisine 24x7,18311162,625
+Haji Ali,21995,626
+6 Ballygunge Place - Gup Shup,18166908,627
+Crimson Haze,18368688,628
+La Patisserie and Deli - Taj Bengal,21474,629
+Go Green,23595,630
+Go Lebanese,23793,631
+Maharaja,20864,632
+F4U - Food for U,24655,633
+Only 4 Chinese Gazab,25378,634
+Anamika Roll Centre,22580,635
+Shimla Biryani,25190,636
+Nalin Chandra Das & Sons,22431,637
+Xing,20756,638
+Red Kitchen & Lounge,21352,639
+Forever Yogurt,24546,640
+Chinese Quisine,21241,641
+Yummy Puds,18217861,642
+Nu Wan Li,21070,643
+Velvetiine,25620,644
+Black Sky Bar - Aauris,18198682,645
+The Biryani Company,23691,646
+Rollick,18325258,647
+Benfish,20770,648
+Silver Grill,21171,649
+Bistro Y,24830,650
+Kafulok,20830,651
+Indian Coffee House,21763,652
+Steam & Fried,23940,653
+Gunjan Chinese Food,22893,654
+Sharma Tea,21137,655
+Gangotri,21140,656
+Saima,21316,657
+Hangla's,18265465,658
+Food Village,22674,659
+Plush Lounge & Bar - Astor Hotel,21529,660
+Mezze,23800,661
+The Yellow Straw,24935,662
+Chin Wah,23652,663
+New Aahar Restaurant,21834,664
+Friends' Pizza,18171057,665
+New Cathay Restaurant and Bar,21579,666
+Khanasutra - Park Prime,21620,667
+BLU -  Aauris,18070826,668
+Pawan Putra,24802,669
+Tit Bits,20675,670
+China Bite,23242,671
+The New My Club,20920,672
+Paris Cafe,18287249,673
+Coffee World Restaurant,21812,674
+The Yellow Straw,25516,675
+Toaste Adda,24841,676
+Fikar Not Foodies,18162690,677
+The Cloud 9,18143263,678
+Paradise,22437,679
+Chopstick,20132,680
+Cream Centre,17953898,681
+Fillers,21759,682
+The Shack Lounge,18224030,683
+Ralli's,20809,684
+The Tipsy Bull,18420386,685
+Kuaizi 'n' Kadai,24343,686
+Nafeel Restaurant,21863,687
+Nalban Food Park- All Fish Restaurant,18325275,688
+Hong Kong,21231,689
+Das Cabin,23835,690
+India Lord,21328,691
+Cafe Bistro,24456,692
+Hatari,21862,693
+Chef Alladin,21967,694
+Tongue Twister,21344,695
+Extacy,21584,696
+Kamdhenu's,25400,697
+D -Talks Adda,18370526,698
+Mr.Burger,18388305,699
+The Super Snack Bar,20706,700
+Golden Empire,22496,701
+The Wall Express,18166910,702
+Arun Tea Stall,22458,703
+Tewari Sweets,22538,704
+Radhu Babu's,22612,705
+Sangu Valley,21286,706
+D-Den,18134926,707
+The Grub Club,21476,708
+Shawarma Nation,25692,709
+Sanjha Chulha,23853,710
+Epicuisine,23981,711
+Choc N Cheese,23085,712
+Mandarin Restaurant,23606,713
+Darbaar-E-Khaass,25227,714
+Bakstage The Wine Room,24812,715
+Foodie By Nature,18270238,716
+Hindustan Sweets,22442,717
+Honey Da Dhaba,18296333,718
+Mehak-e-Punjab,20791,719
+Indthalia,20624,720
+Nandini,21736,721
+Hao Chi,21485,722
+Kalash - HHI,21356,723
+La Komida,24444,724
+Igloo Cafe & Ice Cream Parlour,22386,725
+New Paul Dhaba,21288,726
+Gourmet Bakers,18302162,727
+Fresh Bake,18224054,728
+VR1,18311150,729
+Bay Leaf,20062,730
+The Scoop,24531,731
+Little India,23934,732
+Mangio,21608,733
+The Sugarr & Spice,20633,734
+Heritage Karco,20817,735
+Oceania,22534,736
+The Guptas,20543,737
+Bhooter Raja Dilo Bar,21435,738
+Nepal Sweets,23392,739
+Offside Sports Cafe,18377106,740
+Stun the Sun,20619,741
+THE FIREFLY,18270254,742
+Lake Lite,21998,743
+D Freakerrs,18162652,744
+Fast Filling,24429,745
+China Crown,23267,746
+China Town,22531,747
+China Pearl,21448,748
+Hi Brew - Hotel Senses,24221,749
+Bhikharam Chandmal,21824,750
+Tulip's Global Cuisine,25232,751
+Banchharam,22584,752
+Khawab,20725,753
+Tewari Brothers,22537,754
+Hayat,18224067,755
+Balaram Mullick & Radharaman Mullick Sweets,24736,756
+Asia In Box,23865,757
+Mouchak,22905,758
+Banana Leaf,18410814,759
+Trincas Tavern,20834,760
+Illusion,21568,761
+Penguin Restaurant,22552,762
+Pou Hing,22024,763
+Crystaline,20149,764
+New United Cafe,24075,765
+The Cric World,18017617,766
+Afraa Deli,23787,767
+The Mombasa,21933,768
+Food Station,21049,769
+Sare Chuattar,20691,770
+Arshaan,18204257,771
+Anir's,21055,772
+Enamiah Restaurant & Caterer,18265446,773
+Bibi of Taaja's,23219,774
+Sree Hari Mistanna Bhandar,23456,775
+Sher-e-Punjab,20464,776
+New Silver Chimney,20478,777
+Coffee,22007,778
+Just Baked,20988,779
+Canton Restaurant,21225,780
+Blue Mug,18420517,781
+Sharma Tea House,17983779,782
+Maaya Bar - Swissotel Kolkata Neotia Vista,21500,783
+The Super Snack Bar,21310,784
+Singh N Ching,18224045,785
+The Howrah Bridge,21475,786
+Madras Restaurant,20763,787
+Burnt Garlic,18414412,788
+Chicago Pizza,24789,789
+Pappadam,18414437,790
+Gourmet Rasoi,22782,791
+Golden Bowl,20652,792
+Adda Bites,22854,793
+Jimmy's Kitchen,21148,794
+Amir Fast Food Centre,24009,795
+Sutanuti Junction,23079,796
+Baked & Fried,25474,797
+Biscotti,20644,798
+Tandoori Delights,21180,799
+Haji Ali,25091,800
+Desi Cuisine,23218,801
+Annaras,22460,802
+Frosted Delight,18252405,803
+New Madras Tiffin,23847,804
+Rahim's,25684,805
+The Chinese Pavilion,20127,806
+Naba Malancha,23683,807
+Palki,20393,808
+Gourmet Hut,20693,809
+Scarlet - Aauris,18070812,810
+Zaika,21484,811
+Sip & Sandwich,21986,812
+Anarkali Restaurant,23353,813
+Raviz,23662,814
+Fuel Resto Bar- The Pride Hotels,23246,815
+Chicago Pizza,18296349,816
+Golden City,22139,817
+Plate-de-Poultry,24884,818
+Multicuisine - The Big Boss,25723,819
+Ice & Spice,21341,820
+Feast,21117,821
+Chatar Patar,24831,822
+Deraa The Afghan Rasoi,18398881,823
+Hotel Broadway,21208,824
+Mustard,21152,825
+Sholoana Bangali,21306,826
+Pao Chein,22221,827
+D'Ley,24680,828
+Masala Kitchen,23801,829
+Xspicy - Indismart Hotel,21570,830
+Republic of China,22819,831
+Prince Fast Food Centre,20612,832
+Ar-Han-Thai,23170,833
+Auntie Annes,18219915,834
+Cake and Bake,18318768,835
+Urban Kitchen,18240469,836
+Vegout,24587,837
+Swad,18162667,838
+Shruti's Creations,25065,839
+Suresh Mistanna Bhander,23904,840
+Penguin Dhaba,23114,841
+NU Variety,21988,842
+Regent Restaurant,22372,843
+Calif,18287248,844
+Nalin Chandra Das & Sons,23042,845
+Hide Cafe,22421,846
+Kafe Bindass,22175,847
+Crossroad Crystal,18237073,848
+New Saurashtra Nimki House,23014,849
+Delice - Novotel,24838,850
+Krazy Biryani,25597,851
+Taste Buds,25192,852
+THE FIREFLY,18017651,853
+Chineese Quisine,21420,854
+Silver Sand,22168,855
+Choco Lust,24527,856
+Katerpillar Cafe,22709,857
+Made In Oven,25083,858
+Shudh Veg Food Court,25711,859
+Yin Yang,23432,860
+Epicuisine,23839,861
+Hong Kong,21232,862
+Ranjan's,22234,863
+Baskin Robbins,24915,864
+Dumpling Momo,24003,865
+Kim Fa,23096,866
+Bedwin,21178,867
+T.T.K. Restora,21282,868
+Pepperz,22130,869
+Fork & Dagger,18390677,870
+Nirvana - Park Plaza,22809,871
+Spice Project,25728,872
+Yogen Fruz,21893,873
+V Cafe,21830,874
+Mouchak,23568,875
+Icy Fusion,18237045,876
+The Cake Counter,18273044,877
+Seedz Beanz N Aroma,21675,878
+The Village,18017635,879
+Capnil Kitchen Restaurant,21718,880
+Delish Dhaba,18377116,881
+Cafeccino,23914,882
+Dawat Restaurant,24572,883
+Azad Hind,23430,884
+Dhaka Biriyani House & Restaurant,23438,885
+Mishra's Restaurant,23416,886
+Sumo Dough,18420482,887
+An Idea,18016829,888
+Eat-O-Gito,25562,889
+Dark Knight,18249166,890
+Dehat,20761,891
+Saffron Food Cafe,18213954,892
+Wabi Sabi,18420366,893
+Goutam's,23728,894
+Chill Maar,24945,895
+Narayan Mistanna Bhandar,24336,896
+Sharma Snacks Center,23399,897
+Home Slice,25563,898

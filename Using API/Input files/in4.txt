@@ -1,0 +1,653 @@
+Pizza Lovers,25675,2699
+Punjab Hindu Hotel,22615,2700
+Swagat Restaurant,24810,2701
+Haji Biryani House,22718,2702
+Meonis,24820,2703
+A-1 Haji Fast Food Centre,18420520,2704
+Abhiskar Restaurant,23558,2705
+South Indian  Coffee House,18355723,2706
+Bakstage BakeHouse,25738,2707
+Just Fries,18268611,2708
+4B Bakery Street,18452227,2709
+Sziszotic Cafe,24486,2710
+Seven Maddox Square,25649,2711
+Dilli se Dilli,18249183,2712
+Pizzicone,18249176,2713
+Desi Biryani,18279529,2714
+Meringue,25624,2715
+Star Manti Biryani,24978,2716
+Appayan,24943,2717
+New Star Haji Biryani,22494,2718
+Ramdas Sweets,18128532,2719
+Star Fast Food,24293,2720
+Nandan Sweets,18270212,2721
+The Arab Knight,18259460,2722
+Tasty Folks,18368671,2723
+Diki Sikkim Momo,18128638,2724
+Town Restaurant,18391315,2725
+Banalata,23230,2726
+Caterpiller,18366776,2727
+Momo Lovers' Delicacyz,18162655,2728
+Haldiram's,24896,2729
+Club Camacs Mehfill,20141,2730
+Unnayan Cabin,25498,2731
+Time Pass Fast Food Centre,18325243,2732
+Kafe 6/2B,25687,2733
+Busy Bites,18431893,2734
+Corn & Fries,23925,2735
+Javed Biryani,18070787,2736
+Kokobana Garden Cafe,18249173,2737
+Kali Kebin,22357,2738
+Upper Cakes,24643,2739
+Bombay Bru,22569,2740
+Ichha Puron,18259431,2741
+New Rajarshi,24750,2742
+D-Den Restro,18311152,2743
+Anandamayee Restaurant,25746,2744
+Punjabi Dhaba,24942,2745
+Shib Namkin & Sweets,24239,2746
+Luxmi Caterer and Snacks Bar,25633,2747
+Sai Jalpan Junction,18287242,2748
+Garden View Restaurant,22566,2749
+Chitrakut,23517,2750
+The Melting Point,18461731,2751
+Jesibo,24669,2752
+Vegova,18325255,2753
+STM Restaurant,18324535,2754
+Hot Bite,18128529,2755
+Kwality Roll Corner,22884,2756
+The VIP Sweets,24620,2757
+Eating House,21287,2758
+Petuk Dhaba,18398888,2759
+Naaz Fast Food,22643,2760
+Som's Fast Food,22371,2761
+Mathura Maharaj,18409869,2762
+Deshapran Mistanna Bhandar,24477,2763
+Laxmi Narayan Misthanna Bhandar,25047,2764
+Maa Sitala Mistanna Bhandar,24673,2765
+K. C. Das Grandson,22417,2766
+Athina Food Valley,18350475,2767
+Railway Restaurant & Bar,21453,2768
+Gourav Food Corner,18431478,2769
+New Rajballavi Sweets,18213976,2770
+Liu's Noodle King,18287269,2771
+Kulfiano,18386812,2772
+Hookah Knight,18325263,2773
+Cafe Kabira,18431332,2774
+Street Food Junction,22954,2775
+Spice Garden,18217438,2776
+Amar Key-Chain,18265438,2777
+China Blue - Chinese Restaurant,18361663,2778
+Coffee World,18313977,2779
+Moghal Empire,18361676,2780
+6 No Patuli,18440223,2781
+Anokha Baghicha,23446,2782
+Mistimukh,18270259,2783
+Taste and Express,18166933,2784
+National Hotel & Restaurant,24783,2785
+Foodiezzz Hub,18070781,2786
+Kalika Misthana Bhandar,25481,2787
+Dhaka Shahi Biriyani House,25742,2788
+Rayaz,18227721,2789
+Made in China,18224047,2790
+Mondal Sweets & Confectioners,24156,2791
+Rasoi,18325274,2792
+Tasty Cakes & Bakes,25022,2793
+Simply Corn,23983,2794
+Golok Barman,18259439,2795
+Gourmet Plate,18017631,2796
+Krishna Sweets,24161,2797
+Mistimukh,18386785,2798
+The Royal Garden Restaurant,18398894,2799
+SriRam Sweets,23526,2800
+Aroma Fast Food Hub,18268622,2801
+Yum Yum Food Corner,24268,2802
+Khyber,18414395,2803
+Barir Khabar,18265477,2804
+Stock Exchange Tea Stall,18209662,2805
+Omji's Restaurant,23139,2806
+KaterPillar Reloaded,18346380,2807
+Sunset Bar,21607,2808
+New Central Hotel,23506,2809
+Penetti Coffee House,18288717,2810
+Dine 9,18134927,2811
+Pancha Banjan,18414408,2812
+Plaza 89,18259453,2813
+Princess Fast Food Center,18162675,2814
+Happy Food Junction,18304538,2815
+Rumaan,18377634,2816
+Ubique City,24442,2817
+Shree Krishna Mistana Bhandar,18281736,2818
+Swan Sea,22146,2819
+Sagar Biryani Centre,18249154,2820
+Paro's Kitchen,18395475,2821
+Shree Durga Mistanna Bhandar,24282,2822
+Chocopassion,18296367,2823
+Ghosh Sweets,24158,2824
+Enamiah Restaurant & Caterer,18398871,2825
+Ekanto Apon Fast Food Centre,18134889,2826
+Pabrai's Fresh and Naturelle Ice Cream,18213951,2827
+The Noodle Story,18431476,2828
+Shree Ganesh Nasta and Sweets,24166,2829
+Raj Fast Food Cafe,18070820,2830
+Cake-O-Bake,18424094,2831
+New Arsalan Biryani House,23945,2832
+The Gourmet Hub,18420397,2833
+Snachies,18213982,2834
+D Chocolatee,23387,2835
+The Calcutta Cravings,18398895,2836
+Calcutta Food Co,18398884,2837
+Bol Bhai Bol,22699,2838
+Desi Bites,18354590,2839
+Marufaz Xpress,18354598,2840
+Salmco,23091,2841
+Chicago Pizza,18420379,2842
+Hena Biryani,18304544,2843
+Pangong,18368665,2844
+Rajkumar Sweets,24204,2845
+Kurizma,24989,2846
+Karri Klub's Kitchen,18368648,2847
+Raju Sweets,24688,2848
+Hot Spice,25652,2849
+Abar Khaboo,22355,2850
+New Haji Sahab Fast Food Center,24142,2851
+Bhim Chandra Modak,22907,2852
+Mouchak Delicious Sweets,24121,2853
+Singh Bros,25499,2854
+Gharana - The Big Boss,25751,2855
+Avenue Mistanna Bhander,23528,2856
+Paris Bar & Restaurant,25054,2857
+Durga Puri Hotel,18128482,2858
+Alochaya Fast Food,22247,2859
+Adaab Hotel & Restaurant,18134896,2860
+Roll Center,22876,2861
+Jibh-E-Jol,24147,2862
+Haldiram,18398876,2863
+Indian Quarter - Ffort Raichak,22776,2864
+Hindustan Restaurant,22700,2865
+Sangam Roll Centre,22885,2866
+Reyaz Hotel,23499,2867
+Khusbu,20819,2868
+Golden Harvest - Golden Parkk,18386804,2869
+Dipu Fast Food Centre,22625,2870
+Adi Mahaprabhu Mistanna Bhander,18162664,2871
+Hunger's Point,18386142,2872
+Urbans Cafe,18420375,2873
+Shayori's Food Corner,18198672,2874
+Lansdowne Weekenders,18439371,2875
+Shanti Hotel,22358,2876
+Cafe Delight,22528,2877
+Indulgence,18431484,2878
+Bonfire,18420373,2879
+Thai Chi,18377088,2880
+Shyam's,25408,2881
+Food Land,18356657,2882
+M-Lounge - Monotel,22807,2883
+Brown County,23313,2884
+Annapurna,24865,2885
+Bhel Junction,18414417,2886
+Upper Cakes,25212,2887
+Cafe Upper Crust,25004,2888
+Abhinandan Fast Food Centre,24529,2889
+China Town,22232,2890
+Maharaj,18198659,2891
+Hot Ginger,18336163,2892
+Subham Home Delivery Services,18243980,2893
+A Homebaker's Treat,18416937,2894
+Power Play,23453,2895
+Mitali Sweets,23978,2896
+Aayaan Restaurant,24067,2897
+Bhola Fuchka Wala,18270224,2898
+Atlantika,22524,2899
+Lakhi Hotel,22114,2900
+Sarathi,24159,2901
+Rajashree Restaurant,21451,2902
+Gayetri Fast Food Centre,22956,2903
+Ratna Restaurant,24414,2904
+Tiny Miny,25663,2905
+Deshapriya,24947,2906
+Muskan Pet Puja Fast Food Centre,18259446,2907
+Hindusthan Sweets,24705,2908
+Chai Adda,18420491,2909
+Bakery World,18431449,2910
+Baba Fast Food,18248980,2911
+Bengal Darbar,18413838,2912
+The Fish Box,18361649,2913
+Ashraf Biryani,24090,2914
+Liyaqat Sweets,23121,2915
+Paris Cafe,18343726,2916
+Madhurima's Kitchen,18265475,2917
+Ramesh Chilla Wala,18440199,2918
+Love Bites,18377069,2919
+Raj Rasoi,21343,2920
+Rehan,24703,2921
+Misti Mukh,24002,2922
+Brother's Snack,18360342,2923
+The Gourmet Club,18296343,2924
+Chinese & Indian Food,24125,2925
+Janta Kitchen,18362285,2926
+Hot Lips,18361669,2927
+Yum Tum,18249149,2928
+Kiran Fast Food Center & Restaurant,24095,2929
+Bishal Restaurant,24305,2930
+Maria Fast Food,22117,2931
+Cafe Coffee,24141,2932
+Silver Spoon,18017650,2933
+Bhojon Bilasi,18325046,2934
+Molly's Home Made,18217463,2935
+Super Haji Biryani,22640,2936
+La Sweet Art,23743,2937
+New Mezban Biriyani Palace,24941,2938
+Diamond Biriyani,18143272,2939
+Mira's Lil' Bakery,18306125,2940
+Big Boss Restora,18198684,2941
+Monda Mithai,22906,2942
+A-One Biryani,23995,2943
+Rock-N-Roll,18198696,2944
+Kanha Kitchen,18452236,2945
+Priyanka Sweet & South Indian,18432060,2946
+Snacks Hut,18420492,2947
+Spice Temptation,18424851,2948
+Chocojaadu,18296357,2949
+Maa Kali Road Centre,23470,2950
+Haji Saheb,18288753,2951
+Eat Street,18265470,2952
+Yummy Hub,25104,2953
+Khuro Mahashay,23679,2954
+Rollacosta,18270249,2955
+Kalika sweets,18281738,2956
+Royal Darbar,20673,2957
+Jeevan Restaurant,21153,2958
+Xpress Cafe,18450993,2959
+Snacks Emporium,18251892,2960
+New Zaiqa Biryani,24213,2961
+Sidd's Hospitality,23936,2962
+Dolphin Resturant,18213962,2963
+Maa Ke Haath Ka,18411573,2964
+Sugar Bliss,25029,2965
+Majlish,18224076,2966
+A-1 Taj Biryani House,18134921,2967
+Biscotti,22744,2968
+Expert Shahi Biriyani,25479,2969
+Pavni Bakes,18070779,2970
+Jyotirmoyee Golden Restaurant,25072,2971
+OH! Momo,18168240,2972
+Saha Food Snacks,25521,2973
+Central Restaurant,22920,2974
+Palacio,18420402,2975
+Pragya Fast Food,22086,2976
+Rahul Restaurant,22506,2977
+Ma Bhagwabati Sweets,18153266,2978
+Dinobandhu Misthana Bhandar,18198666,2979
+Chill Zone,18412699,2980
+By The Pass,18433917,2981
+Coco Mozart,18343737,2982
+The Vegetarian Gourmet,18349042,2983
+Food Court,18213970,2984
+Dacres Corner,22512,2985
+Haldiram's,18017630,2986
+Shrimon's Kitchen,24937,2987
+HFC,18391272,2988
+Cin Shing,18259464,2989
+Saanvi's Kitchen,18253621,2990
+Chicken King Handa's,18361640,2991
+Krill Restaurant,18386802,2992
+Calcutta Sweets,25459,2993
+The Cafe - Hotel Niharika,23838,2994
+Swapnapuri,23585,2995
+Bishal Fast Food & Restaurant,18265440,2996
+Cakes-O-Mania,18224049,2997
+Chandi Mata,24349,2998
+Rajarshi Food Court,18259438,2999
+Flavors Of East,18413921,3000
+Mom's Chinese,18414401,3001
+Vinayaka Sweets & Snacks,18281728,3002
+Hungry Hut,17983773,3003
+JustPressed,18134892,3004
+Ayesh,17983770,3005
+Albela Biryani,24088,3006
+Anamika Eating House,20818,3007
+Curd Corner,23183,3008
+The Street Food,18414399,3009
+Spicy Kolkata,18354585,3010
+Circular Cabin,23092,3011
+Lotus,21602,3012
+Dr. Veggie!,18361707,3013
+Nightangle,24879,3014
+Park Fast Food Centre,23137,3015
+Swagata Restaurant,21560,3016
+New Ghosh Brothers,18281734,3017
+Bosumati Fast Food Centre,22951,3018
+Hot & Spice,18166915,3019
+New Roll Center,24985,3020
+Snacks Food Centre,23551,3021
+D's Cafe,22519,3022
+New Delhi Mishtaan Bhandar,23495,3023
+Pappu Chaiwalla,18452220,3024
+Ashish Hindu Hotel,22694,3025
+NS Restaurant,17983771,3026
+Ghosh Sweets,23010,3027
+Shimnan Fast Food Centre,23082,3028
+Vishwanath Snacks,22557,3029
+Shakti Mistanna Bhandar,23622,3030
+Shimla Biryani,18431051,3031
+CRC,18343763,3032
+Hotel Sidheshwari Ashram,18288868,3033
+Alveena,18377086,3034
+Sams Pub,18398860,3035
+Sandwichwala,25536,3036
+Flavyo,18420483,3037
+Foods Ocean,22853,3038
+The Ghosh Cabin,22916,3039
+Veg Spicy Hut,18312870,3040
+Very Berry,25401,3041
+Bower Bar & Restaurant,23116,3042
+Darchini Cafe,18398893,3043
+Flavour-E-India,18281723,3044
+M/S Binode Behari Nag Ganesh Chandra Dutta,18361673,3045
+Mayur Hotel & Restaurant,24151,3046
+Chat Pata,18213984,3047
+Hidden Dragon,18213992,3048
+Andy's Kitchen,18354568,3049
+Mother's Kitchen,18219511,3050
+Bamboo,18452216,3051
+Mummy's Kitchen,17983774,3052
+A-One Restaurant,22536,3053
+Ashraf Biryani Centre,22599,3054
+Annapurna,24357,3055
+Mansukh Bar & Restaurant,23719,3056
+Khushi Fast Food Centre,22101,3057
+Couter,24918,3058
+Didir,23884,3059
+Glx Kitchen,18414432,3060
+Lovely Sweets,22973,3061
+Sizzler,25644,3062
+The Cake Fairy,25120,3063
+Sree Ma Hotel,23618,3064
+Delightful Trends,18237087,3065
+Sheela's,21493,3066
+Abhilasha Fast Food Centre,23072,3067
+Karan Fast Food,23493,3068
+Le Chocolat,25582,3069
+MNP Snackbar,24227,3070
+Kashmir Biryani,22757,3071
+Sweet Home,25009,3072
+Ashma Fast Food,18265443,3073
+Kanupriya Gupta,25602,3074
+Hanne's Cafe,18306116,3075
+Food Plaaza,18292538,3076
+Gupta Eating House,22950,3077
+New Mumbai Snacks Fast Food,18265468,3078
+Nu Sagar,18224039,3079
+Mukhuruchi,24800,3080
+Halder Sweets,18222068,3081
+Annapurna Mistanna Bhandar,24827,3082
+Patchwork Orange,18452239,3083
+Bengal Sweets,23119,3084
+Soo Fresh,18420398,3085
+Paul Sweets,18273238,3086
+Maahi Restaurant,22698,3087
+Breakout,18431479,3088
+Amul Ice Cream Parlour,18429057,3089
+Henshel E Bangali Khabar,18414415,3090
+Haji Abdul Biryani House,22759,3091
+Rashpurna,23401,3092
+Kingston Hotel,18134897,3093
+Wow Roll,18420507,3094
+Gup Shup,18414404,3095
+Kalpana Sweets,18429054,3096
+Hot Pot,18414421,3097
+Sprinkles,22751,3098
+Bhimsain Hotel,21439,3099
+Jeet Cafe Bar,18386811,3100
+Bindass Restaurant,25752,3101
+Magical,18361684,3102
+Bahama Mama's,18270231,3103
+Shankar Cabin,23160,3104
+Love at First Bite,25720,3105
+Simana Periya,18265433,3106
+Jaiswal Tasty Corner,18265449,3107
+Pure Milk,24212,3108
+Aditya Hindu Hotel,20776,3109
+CakeWalk,22867,3110
+Kafe Caramel,21600,3111
+Green House Snacks Bar,22914,3112
+Infusion,18244156,3113
+Laxmi Narayan Mistanna Bhandar,24215,3114
+Chaitali Sweets,24214,3115
+Afreen Biryani House,22683,3116
+Mx Corn,18281708,3117
+Al Ain,24105,3118
+Khushi South Indian Food Plaza,23220,3119
+Tewari Restaurant,21283,3120
+Dakshina Kali Mistanna Bhandar,23403,3121
+Fast Food Centre,23507,3122
+Hungry,24285,3123
+Hot Dhaba,23504,3124
+Bhel Junction,18281712,3125
+Coffi Chat,18296474,3126
+Tasty Plaza,18326097,3127
+Bably's Fast Food,18209505,3128
+Chung Fa,18254762,3129
+Protima Sweets,24226,3130
+Snow Gola,24595,3131
+Savoury Travels,18337977,3132
+Corn Center,25411,3133
+Laxmi Narayan Mistanna Bhandar,24148,3134
+Tanmoy Fast Food Center,22085,3135
+Mishti Mukh,23860,3136
+Gupta Hotel,22949,3137
+KIFO - Food's by Kilo,18458033,3138
+Sree Bakes,18354582,3139
+Dhaba @ 66,25135,3140
+Red Bellpepper,18347798,3141
+Shyam Andhra Mess,22749,3142
+Bhoj On,18272767,3143
+Soo Fresh,18420476,3144
+Rhythms,22529,3145
+Amantran,18209669,3146
+Sizzling Sizzler,18213994,3147
+Red Chillies,18373045,3148
+Sher E Bengal,18134911,3149
+Shree Krishna Veg Kitchen,18281709,3150
+Hygienic Food Cabin,25241,3151
+Glx Kitchen,18343842,3152
+Chef & Best Fast Food,23514,3153
+79/10 Henshel,18393385,3154
+Heyat Corner,25438,3155
+Tripti,24066,3156
+Hanglabari,24010,3157
+Happy Indian Food,18332692,3158
+Crispy,18342024,3159
+Hot Nuts,18213968,3160
+Townhouse 10,18357460,3161
+The Upvan Confectionery,25151,3162
+Leaves 'n Aroma,18161781,3163
+Hungry Hut,17983767,3164
+Mangalam,24819,3165
+Ambalika Food Plaza,22180,3166
+Pee Kay Khana,18070814,3167
+Anup Hotel,22971,3168
+New Sangam Roll,24960,3169
+Shubham,18386781,3170
+Champian Snacks Food,22859,3171
+New Red Chilli,17983765,3172
+Ghosh Sweets,24217,3173
+The Noodle Story,18440237,3174
+N.J. Nagpal Desserts,18280458,3175
+Sree Krishna Sweets,18441018,3176
+Golden Heaven,18265460,3177
+Rega,18420405,3178
+Ulaaas Bar cum Restaurant,25492,3179
+The Box,18420505,3180
+Cafe Ekante,18398898,3181
+Spice Garden,18354597,3182
+Choice,18398855,3183
+K G N Nasir Hotel,18281731,3184
+Lucknow Biryani,18433213,3185
+On The Roll,18414423,3186
+Sai Jalpan Junction,18431448,3187
+Bablu Sweets,22328,3188
+Cafe Ekante Nazrul Tirtha,18311149,3189
+Mehmaan,18443214,3190
+Dawat,18224041,3191
+Nidhees Fast Food,18205884,3192
+Verma's Cafe,18432651,3193
+New Delhi Hotel,23540,3194
+Aminia House,18378565,3195
+Maat,18256887,3196
+The New Indian Restaurant,25222,3197
+Con-T,24586,3198
+Laskar Biriyani House,24203,3199
+Amsterdum,18369928,3200
+Afzal Biryani & Fast Food,24138,3201
+Sri Balaji South Indian Mess,22753,3202
+Tummy Time,18287255,3203
+Mom's Chaats,18414396,3204
+Swad Snacks Bar,23737,3205
+Sristi Fast Food Centre,23532,3206
+Sima's Fast Food Centre,22860,3207
+Onkar Hotel,18143261,3208
+Sri Krishna Mistanna Bhander,18352364,3209
+Al - Falah,23971,3210
+Krishna Food Canteen,24491,3211
+Waterfall Bar & Restaurant,18070786,3212
+New Mezban Biryani,18414406,3213
+Simply Corn,18325286,3214
+Paul Fast Food Center,25569,3215
+Gulzar Biryani,22680,3216
+Young Star Restaurant,23958,3217
+Skewers,18440212,3218
+Star Vada Pav,25110,3219
+Rimi Biryani & Snacks Corner,18390347,3220
+Arunoday Eating House,22031,3221
+Food Cafe,18270217,3222
+Varsha's Desserts,25097,3223
+Chowdhury Sweet House,23944,3224
+Chauhan Victoria Vada,18452202,3225
+The Bhoj Company,18440243,3226
+Global Bengal,18380525,3227
+Gold - JW Marriott,18448930,3228
+Veg Dhaba,18343735,3229
+Chutney veg restaurant,18398890,3230
+Embassy Bar & Restaurant,22647,3231
+Grand Sweets,25407,3232
+CFC,18213990,3233
+Yash Cakes,23125,3234
+Super Janata Jalpan,18017636,3235
+Chopstick,18368669,3236
+Meher Caterers,18343727,3237
+HomeLand,18333361,3238
+Food Stall,18270213,3239
+Mizz World,23413,3240
+Morning Meal By Mom,18420406,3241
+Shahi,18213996,3242
+Michelle's Foods,24818,3243
+Swagatam,24878,3244
+Banzaara,25484,3245
+Hazrat Special Biryani,25488,3246
+The Punjabis,22832,3247
+3H Foodyz,17983772,3248
+Walia Da Dhaba,24706,3249
+Food Plaza,23736,3250
+Maa Annapurna Sweet,24742,3251
+Sweet Nothings,18162677,3252
+Amantran Restaurant,24115,3253
+Rassta Cafe,18395075,3254
+Ni Hao! Tea House,18235402,3255
+Salt n Spice,18224509,3256
+Monjoy Sweets & Confectionary,23107,3257
+Sweet Revenge,23488,3258
+Lakshmi Narayan Punjabi Hotel,18134914,3259
+Rajballavi Sweets,18281711,3260
+Ikathi.com,18237076,3261
+Jhumki Fast Food Centre,22501,3262
+Gouri Sweets,18259461,3263
+Chabbis January,24893,3264
+Tara Maa Sweets & Confectioners,24163,3265
+New Shibani Sweets,23105,3266
+Velvetiine,18431451,3267
+TRO - The Rollover,18461724,3268
+TRO - The Rollover,18452240,3269
+Marwar Junction,18420513,3270
+TRO - The Rollover,18461725,3271
+Kathi Junction,18440225,3272
+Ritesh Cafe,18440779,3273
+Genuine Broaster Chicken,18452229,3274
+Swarnachura,18452215,3275
+Apna Pizza,18431450,3276
+Cafelogy,18439723,3277
+Abar Khaboo,18439471,3278
+Maple The Kitchen,18398892,3279
+Sharma Sweets,18452203,3280
+Ganesh Pav Bhaji,18420514,3281
+New Veselka,18420495,3282
+The Cafe Cube,18311138,3283
+Bunkers Dhaba,18377104,3284
+Barddhaman's,18420389,3285
+Mirchii,25433,3286
+Green Chilli's,18256888,3287
+Dosa Plaza,18398886,3288
+Chill Pill,18213980,3289
+Vimal Das Fast Food,24930,3290
+Wok N Grill,18368651,3291
+Barua Eating House,23554,3292
+Aoji Khaoji,18431473,3293
+New Hotel,22696,3294
+Pancho Byanjon,25515,3295
+Momo's Corner,18420496,3296
+Jhaaj lobongo,18325242,3297
+New Chacha Hindu Hotel,22690,3298
+Sai Cafe,18354581,3299
+Dil Se Food Plaza,18281729,3300
+Teatime Bakes,25051,3301
+Mughal Biryani,18281732,3302
+Ashirbad,18224053,3303
+Thirsty,18431470,3304
+Natraj Sweets,24353,3305
+Bella Biryani,22636,3306
+Rekha Line Restaurant,25533,3307
+Zion Zest,18275303,3308
+Bawarchi Ghar,18249137,3309
+New Beharilal Sweets,24949,3310
+Maahi Restaurant,24790,3311
+Streat kitchen,18420411,3312
+Shibanna Sweet Shop,18217471,3313
+Nipaz,18393919,3314
+Sweet India,18273239,3315
+Kebab Junction,18440202,3316
+Street Cafe,18440229,3317
+Mughal Samrajyo,18437641,3318
+T AND T KITCHEN,18385350,3319
+Delicious Too,18264753,3320
+Rajkachori and Tea Stall,18452199,3321
+Bui Bui's,25592,3322
+Pramathanath Mistanno Bhandar,18386208,3323
+Fumi Villa,18420486,3324
+Fabbrica Della Pizza,18420478,3325
+Arrk,18361683,3326
+Bedouin Restaurant,18440226,3327
+IFB Minute Meals,18420394,3328
+Azad Dhaba,18452228,3329
+Makhaana,18440238,3330
+Dragon Shack,18368670,3331
+Keventers,18452234,3332
+The Howrah Bridge,18431488,3333
+Yumlafood.com,18393395,3334
+South Express,18431467,3335
+Officer's Kitchen,18452223,3336
+Cafe Coffee Day,18455301,3337
+Anand's Veggie Delight,18440215,3338
+Sandhya's Kitchen,18143275,3339
+Jana Food Cafe,18432040,3340
+Wow! Momo,18451807,3341
+Pirates Of Bengal,18444746,3342
+Deep Restaurant,18420399,3343
+On Time,18461728,3344
+Panna's Fresh N Bakes,18460690,3345
+Ram Bhog Fast Food Centre and Restaurant,18346669,3346
+Sahi Dawat,18461733,3347
+Sen5es,18461737,3348
+The Bar - The Oberoi Grand,18461738,3349
+Gazab Ba Restaurant,18462847,3350
+The Tasty Bites,18463798,3351
